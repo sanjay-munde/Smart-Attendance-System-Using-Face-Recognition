@@ -10,9 +10,7 @@ Traditionally, attendance management has been a manual and time-consuming task, 
 
 ## Demo
 
-<p align="center">
 ![Attendance gif](https://github.com/sanjay-munde/Smart-Attendance-System-Using-Face-Recognition/blob/main/Images_GUI/Attendance%20gif.gif)
-</p>
 
 
 
