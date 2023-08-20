@@ -40,18 +40,18 @@ See the system in action:
 
 ## Deployment
 
-### ▷ Setting up the project
+Follow these steps to set up and deploy the Smart Attendance System Using Face Recognition project on your local machine:
 
-After cloning the project:
+### Prerequisites
 
-Start the server:
+Make sure you have the following prerequisites installed on your system:
+
+- Python 3.x (Recommended: Python 3.7 or higher)
+- `pip` package manager
+
+### Clone the Repository
+
+First, clone this repository to your local machine using the following command:
+
 ```bash
-  python login.py
-```
-in terminal
-
-### ▷ Database
-
-- MySql
-  -https://dev.mysql.com/doc/
-
+git clone https://github.com/sanjay-munde/Smart-Attendance-System-Using-Face-Recognition.gitInstall DependenciesNavigate to the project directory:cd Smart-Attendance-System-Using-Face-RecognitionInstall the required dependencies by running:pip install -r requirements.txtThis will install the necessary packages: OpenCV, NumPy, and opencv-contrib-python.Start the ServerRun the following command to start the server for the attendance system:python login.pyThe server will begin running, and you will see output indicating that it's up and running. This will usually include information about the server's IP address and port number.Access the SystemOpen your web browser and enter the following URL:http://localhost:5000This will take you to the home page of the Smart Attendance System.UsageLog in using the provided secure login system with your username and password.Utilize the various functionalities available on the home page:Manage student records (save, capture photos, update, delete, clear).Train photo samples for facial recognition.Take attendance using face detection.Generate attendance reports in Excel files and MySQL databases.Gracefully exit the application.Database SetupThe project uses MySQL for database management. Refer to the MySQL documentation for instructions on setting up and configuring MySQL on your system.Feel free to reach out if you encounter any issues or require further assistance with deploying the system.
