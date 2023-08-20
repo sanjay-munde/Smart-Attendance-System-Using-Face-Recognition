@@ -14,21 +14,6 @@ Traditionally, attendance management has been a manual and time-consuming task, 
 ![Attendance gif](https://github.com/sanjay-munde/Smart-Attendance-System-Using-Face-Recognition/blob/main/Images_GUI/Attendance%20gif.gif)
 
 
-## Screenshots
-
-![App Screenshot](https://github.com/sanjay-munde/Smart-Attendance-System-Using-Face-Recognition/blob/main/Images_GUI/login.jpg)
-
-![App Screenshot](https://github.com/sanjay-munde/Smart-Attendance-System-Using-Face-Recognition/blob/main/Images_GUI/register.jpg)
-
-![App Screenshot](https://github.com/sanjay-munde/Smart-Attendance-System-Using-Face-Recognition/blob/main/Images_GUI/main%20menu.jpg)
-
-![App Screenshot](https://github.com/sanjay-munde/Smart-Attendance-System-Using-Face-Recognition/blob/main/Images_GUI/add.jpg)
-
-![App Screenshot](https://github.com/sanjay-munde/Smart-Attendance-System-Using-Face-Recognition/blob/main/Images_GUI/train1.jpg)
-
-![App Screenshot](https://github.com/sanjay-munde/Smart-Attendance-System-Using-Face-Recognition/blob/main/Images_GUI/train2.jpg)
-
-
 ## Features
 
 ### ▷ Features of Project:
