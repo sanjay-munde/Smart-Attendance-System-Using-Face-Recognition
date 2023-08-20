@@ -1,5 +1,3 @@
-Certainly, here is the entire README.md content with the detailed deployment section:
-
 ```markdown
 # Smart Attendance System Using Face Recognition
 
