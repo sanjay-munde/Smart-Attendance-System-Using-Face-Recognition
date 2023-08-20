@@ -25,16 +25,13 @@ Traditionally, attendance management has been a manual and time-consuming task, 
 -   ii) Train Photo Samples 
 -   iii) Take Attendance with Face Detection 
 -   iv) Attendance Report (Excel file & MySql database) 
--   v) Developer Page
--   vi) Help Desk
--   vii) Exit System
+-   v) Exit System
 
 
 ### ▷ Algorithm use:
 
 - Haarcascade Opencv (Object Detection)
 - LBPH Opencv (Face Recognition)
-###
 - Python GUI - tkinter
 
 ## Deployment
