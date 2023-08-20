@@ -55,7 +55,6 @@ First, clone this repository to your local machine using the following command:
 
 ```bash
 git clone https://github.com/sanjay-munde/Smart-Attendance-System-Using-Face-Recognition.git
-```
 
 ### Install Dependencies
 
