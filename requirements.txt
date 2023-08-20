@@ -1,0 +1,3 @@
+OpenCV
+NumPy
+opencv-contrib-python
