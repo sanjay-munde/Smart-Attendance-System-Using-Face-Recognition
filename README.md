@@ -1,7 +1,7 @@
 # Smart Attendance System Using Face Recognition
 
 <p align="center">
-  <img src="https://github.com/sanjay-munde/Smart-Attendance-System-Using-Face-Recognition/blob/main/Images_GUI/giphy.gif" alt="Logo" width="300">
+  <img src="https://cdn.dribbble.com/users/1679879/screenshots/3903645/media/344aca0636ffc172e623ecde20c84b40.gif" alt="Logo" width="300">
 </p>
 
 The **Smart Attendance System Using Face Recognition** is an innovative project designed to streamline and automate attendance management in various settings, including educational institutions, corporate offices, and events. This system leverages cutting-edge facial recognition technology to accurately identify and record individuals' attendance.
