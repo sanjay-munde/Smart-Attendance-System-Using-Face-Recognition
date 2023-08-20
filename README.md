@@ -1,4 +1,3 @@
-```markdown
 # Smart Attendance System Using Face Recognition
 
 ![Logo](https://github.com/sanjay-munde/Smart-Attendance-System-Using-Face-Recognition/blob/main/Images_GUI/Screenshot%202023-08-20%20112941.png)
@@ -56,7 +55,7 @@ First, clone this repository to your local machine using the following command:
 
 ```bash
 git clone https://github.com/sanjay-munde/Smart-Attendance-System-Using-Face-Recognition.git
-
+```
 
 ### Install Dependencies
 
@@ -109,6 +108,3 @@ This will take you to the home page of the Smart Attendance System.
 The project uses MySQL for database management. Refer to the [MySQL documentation](https://dev.mysql.com/doc/) for instructions on setting up and configuring MySQL on your system.
 
 Feel free to reach out if you encounter any issues or require further assistance with deploying the system.
-
-This comprehensive deployment guide will help you get the Smart Attendance System up and running on your local machine, ensuring that you're able to make full use of its features.
-```
