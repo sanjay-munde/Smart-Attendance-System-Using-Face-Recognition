@@ -33,7 +33,6 @@ Traditionally, attendance management has been a manual and time-consuming task, 
 ### ▷ Algorithm use:
 
 - Haarcascade Opencv (Object Detection)
-  -https://towardsdatascience.com/face-recognition-how-lbph-works-90ec258c3d6b
 - LBPH Opencv (Face Recognition)
 ###
 - Python GUI - tkinter
