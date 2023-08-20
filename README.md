@@ -33,7 +33,6 @@ Traditionally, attendance management has been a manual and time-consuming task, 
 
 - Haarcascade Opencv (Object Detection)
 - LBPH Opencv (Face Recognition)
-- Python GUI - tkinter
 
 ## Deployment
 
