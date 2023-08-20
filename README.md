@@ -5,7 +5,7 @@ The Smart Attendance System Using Face Recognition is a project designed to stre
 
 Traditionally, attendance management has been a manual and time-consuming task, requiring individuals to physically sign attendance sheets or use RFID cards. The smart attendance system revolutionizes this process by utilizing facial recognition algorithms to instantly recognize and verify the identity of individuals as they enter a designated area.
 
-![Logo](https://github.com/sanjay-munde/Smart-Attendance-System-Using-Face-Recognition/blob/main/Images_GUI/Screenshot%202023-08-20%20112941.png))
+![Logo](https://github.com/sanjay-munde/Smart-Attendance-System-Using-Face-Recognition/blob/main/Images_GUI/Screenshot%202023-08-20%20112941.png)
 
 
 ## Demo
