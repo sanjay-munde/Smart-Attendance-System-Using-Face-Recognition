@@ -56,7 +56,7 @@ First, clone this repository to your local machine using the following command:
 
 ```bash
 git clone https://github.com/sanjay-munde/Smart-Attendance-System-Using-Face-Recognition.git
-```
+
 
 ### Install Dependencies
 
@@ -112,5 +112,3 @@ Feel free to reach out if you encounter any issues or require further assistance
 
 This comprehensive deployment guide will help you get the Smart Attendance System up and running on your local machine, ensuring that you're able to make full use of its features.
 ```
-
-You can replace your existing README.md content with this version to provide a detailed and comprehensive guide to users for setting up and deploying your Smart Attendance System Using Face Recognition project.
