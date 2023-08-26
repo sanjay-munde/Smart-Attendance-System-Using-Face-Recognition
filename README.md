@@ -87,15 +87,6 @@ python login.py
 
 The server will begin running, and you will see output indicating that it's up and running. This will usually include information about the server's IP address and port number.
 
-### Access the System
-
-Open your web browser and enter the following URL:
-
-```
-http://localhost:5000
-```
-
-This will take you to the home page of the Smart Attendance System.
 
 ### Usage
 
